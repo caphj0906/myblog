@@ -4,8 +4,8 @@ external_link: https://jinhaslab.shinyapps.io/fatigue/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `연습중`.
+summary: 피로도 측정을 하자 `피로도`.
 tags:
 - Demo
-title: External Project
+title: 피로도 검사
 ---
